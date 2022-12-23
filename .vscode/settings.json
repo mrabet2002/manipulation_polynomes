@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "polynomial.h": "c",
+        "drawchart.h": "c"
+    }
+}

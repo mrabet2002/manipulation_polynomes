@@ -1,0 +1,2 @@
+***Remarque :***
+> J'ai essayé de diviser le programme en modules, ou dans le répertoire "lib" il y a les définitions des différentes fonctionnalités dont leur implémentation se trouve dans le répertoire "impl", mais j'ai rencontré un problème avec le compilateur "GCC" ou le programme s'arrêtera lorsqu'il arrive à un certain point (des allocations mémoire et l'ouverture des fichiers, alors que lorsque j'utilise le débogueur "GDB" tous est marche bien, ce qui m'oblige à ajouter les implémentations au sein des fichiers ". h"
